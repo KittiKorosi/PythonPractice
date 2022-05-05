@@ -44,7 +44,7 @@ if flavoring.lower() == "yes":
     elif flavour.lower() == "vanilla":
         price3= price2 + 0.5
         print("You asked for a " + size + " type is " + type + " coffee with " + flavour + ".")
-    elif flavour.lower() == "hazelnut":
+    elif flavour.lower() == "caramel":
         price3= price2 + 0.5
         print("You asked for a " + size + " type is " + type + " coffee with " + flavour + ".")
 else:
